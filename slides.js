@@ -1,10 +1,9 @@
 /*
   Google I/O 2011 HTML slides template
 
-  Created by Luke Mahé (lukem@google.com)
-         and Marcin Wichary (mwichary@google.com).
+  Created by Luke Mahé
+         and Marcin Wichary
 
-  URL: http://go/io-html-slides
 */
 
 var PERMANENT_URL_PREFIX = 'http://io-2011-slides.googlecode.com/svn/trunk/';
